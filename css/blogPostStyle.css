@@ -39,7 +39,7 @@
 	padding-top: 12px;
 	padding-bottom: 12px;
 	padding-right: 2%;
-	width: 93%;
+	width: 90%;
 	float: left;
 	color: rgba(146,146,146,1.00);
 }
@@ -49,15 +49,32 @@ header nav a {
 }
 #content #mainContent h1, #content #mainContent h2 {
 	/* Styling for main headings */
-	color: rgba(146,146,146,1.00);
+	color: rgba(100,100,100,1.00);
 }
 #content #mainContent h3 {
 	/*Captions ot Taglines */
+/*
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
+*/
+	color: rgba(110,110,110,1.00);
+}
+#content #mainContent h4 {
+	/*Captions ot Taglines */
+	font-family: source-sans-pro, sans-serif;
+	font-style: normal;
+/*	font-weight: 200;*/
+	color: rgba(120,120,120,1.00);
+}
+#content #mainContent ul {
+	/*Captions ot Taglines */
+	font-family: source-sans-pro, sans-serif;
+	font-style: normal;
+/*	font-weight: 200;*/
 	color: rgba(146,146,146,1.00);
 }
+
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
 	width: 100%;
