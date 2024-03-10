@@ -39,7 +39,7 @@
 	padding-top: 12px;
 	padding-bottom: 12px;
 	padding-right: 2%;
-	width: 85%;
+	width: 90%;
 	float: left;
 	color: rgba(146,146,146,1.00);
 }
@@ -279,8 +279,8 @@ footer {
 #mainwrapper header nav {
 	/*navigation links in header */
 	text-align: center;
-	background-color: rgba(255,255,255,1.00);
-	width: 98%;
+/*	background-color: rgba(255,255,255,1.00);*/
+	width: 77%;
 }
 #content #sidebar #adimage {
 	/* Container for image in sidebar */
