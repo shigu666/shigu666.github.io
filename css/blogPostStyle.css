@@ -126,8 +126,9 @@ footer article h3 {
 #mainContent {
 	/* Container for the blog post in individal blog view */
 	padding-left: 2%;
-/*	width: 71%;*/
-	float: left;
+	margin: auto;
+	width: 75%;
+/*	float: left;*/
 	padding-right: 2%;
 	padding-top: 41px;
 }
