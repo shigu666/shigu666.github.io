@@ -131,6 +131,11 @@ footer article h3 {
 	padding-right: 2%;
 	padding-top: 41px;
 }
+
+a {
+	color: rgba(146,146,146,1.00);
+}
+
 #mainwrapper #content #sidebar {
 	/* Sidebar*/
 	width: 19%;
