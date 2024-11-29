@@ -9,7 +9,7 @@ var timer = setInterval(function(){
         clearInterval(timer);
         document.title = "正在前往首页"
         // 跳转到首页
-        window.location.href = "https://shigu666.github.io/";
+        window.location.href = "/";
     }
     // 将时间显示在页面上
     document.querySelector(".time_h1").innerHTML = time;
