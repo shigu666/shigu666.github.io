@@ -1,5 +1,5 @@
 // 设置5秒倒计时
-var time = 5;
+var time = 3;
 // 设置一个定时器，每秒执行一次
 var timer = setInterval(function(){
     // 每次减一
